@@ -11,10 +11,10 @@
         "AssemblyVersion": "1.12.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/SliceIsRight/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/SliceIsRight/latest.zip",
+        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/SliceIsRight/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/SliceIsRight/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1746718051"
+        "LastUpdate": "1746718247"
     },
     {
         "Author": "Avaflow, Ars Magna, Kelvin, Oku Katsu",
@@ -28,10 +28,10 @@
         "AssemblyVersion": "2.12.2.8",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/OkuLalafell/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/OkuLalafell/latest.zip",
+        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1746718051"
+        "LastUpdate": "1746718247"
     },
     {
         "Author": "Oku Katsu",
@@ -45,9 +45,9 @@
         "AssemblyVersion": "1.12.0.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/LalaName/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/LalaName/latest.zip",
+        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/LalaName/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/LalaName/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1746718051"
+        "LastUpdate": "1746718247"
     }
 ]
