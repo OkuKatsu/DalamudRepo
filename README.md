@@ -1,3 +1,3 @@
 ```
-https://raw.githubusercontent.com/OkuKatsu/DalamudRepo/refs/heads/main/pluginmaster.json
+https://raw.githubusercontent.com/OkuKatsu/DalamudRepo/refs/heads/master/pluginmaster.json
 ```
