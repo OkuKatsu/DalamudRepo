@@ -1,0 +1,53 @@
+[
+    {
+        "Author": "Oku Katsu",
+        "Name": "Slice Is Right",
+        "Punchline": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
+        "Description": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
+        "Tags": [
+            "plugin"
+        ],
+        "InternalName": "SliceIsRight",
+        "AssemblyVersion": "1.12.0.2",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/SliceIsRight/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/SliceIsRight/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1746718051"
+    },
+    {
+        "Author": "Avaflow, Ars Magna, Kelvin, Oku Katsu",
+        "Name": "Oku Lalafell",
+        "Punchline": "Turn everyone around you into Lalafells (or other races!)",
+        "Description": "Turn everyone around you into Lalafells (or other races!)\n/polala on = enable plugin.\n/polala off = disable plugin.",
+        "Tags": [
+            "lalafells"
+        ],
+        "InternalName": "OkuLalafell",
+        "AssemblyVersion": "2.12.2.8",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/OkuLalafell/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/OkuLalafell/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1746718051"
+    },
+    {
+        "Author": "Oku Katsu",
+        "Name": "Lala Name",
+        "Punchline": "Show the gender of all lalafell characters to nameplate.",
+        "Description": "Show the gender of all lalafell characters to nameplate.",
+        "Tags": [
+            "plugin"
+        ],
+        "InternalName": "LalaName",
+        "AssemblyVersion": "1.12.0.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/LalaName/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/main/Plugins/LalaName/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1746718051"
+    }
+]

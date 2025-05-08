@@ -1,0 +1,18 @@
+{
+  "Author": "Oku Katsu",
+  "Name": "Slice Is Right",
+  "InternalName": "SliceIsRight",
+  "AssemblyVersion": "1.12.0.2",
+  "Description": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
+  "AcceptsFeedback": true
+}
