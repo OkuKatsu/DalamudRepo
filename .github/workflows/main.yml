@@ -38,7 +38,7 @@ jobs:
           message: Regenerate PluginMaster
 
       - name: Set URL
-        run: sed -i 's|https://github.com/OkuKatsu/DalamudRepo/raw/main|https://${{ secrets.FTP_SERVER_URL }}|g' pluginmaster.json
+        run: sed -i 's|https://github.com/OkuKatsu/DalamudRepo/raw/master|https://${{ secrets.FTP_SERVER_URL }}|g' pluginmaster.json
 
       - name: Deploy to Staging server
         uses: easingthemes/ssh-deploy@main
