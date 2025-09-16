@@ -8,13 +8,13 @@
             "lalafells"
         ],
         "InternalName": "OkuLalafell",
-        "AssemblyVersion": "2.12.2.9",
+        "AssemblyVersion": "2.13.2.9",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1752591174"
+        "LastUpdate": "1758038916"
     },
     {
         "Author": "Oku Katsu",
@@ -25,13 +25,13 @@
             "plugin"
         ],
         "InternalName": "SliceIsRight",
-        "AssemblyVersion": "1.12.0.2",
+        "AssemblyVersion": "1.13.0.2",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/SliceIsRight/latest.zip",
         "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/SliceIsRight/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1752591174"
+        "LastUpdate": "1758038916"
     },
     {
         "Author": "Oku Katsu",
@@ -42,12 +42,12 @@
             "plugin"
         ],
         "InternalName": "LalaName",
-        "AssemblyVersion": "1.12.0.1",
+        "AssemblyVersion": "1.13.0.1",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/LalaName/latest.zip",
         "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/LalaName/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1752591174"
+        "LastUpdate": "1758038916"
     }
 ]
