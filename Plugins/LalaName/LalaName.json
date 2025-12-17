@@ -2,7 +2,7 @@
   "Author": "Oku Katsu",
   "Name": "Lala Name",
   "InternalName": "LalaName",
-  "AssemblyVersion": "1.13.0.1",
+  "AssemblyVersion": "1.14.0.1",
   "Description": "Show the gender of all lalafell characters to nameplate.",
   "ApplicableVersion": "any",
   "Tags": [
