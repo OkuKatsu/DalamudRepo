@@ -1,22 +1,5 @@
 [
     {
-        "Author": "Avaflow, Ars Magna, Kelvin, Oku Katsu",
-        "Name": "Oku Lalafell",
-        "Punchline": "Turn everyone around you into Lalafells (or other races!)",
-        "Description": "Turn everyone around you into Lalafells (or other races!)\n/polala on = enable plugin.\n/polala off = disable plugin.",
-        "Tags": [
-            "lalafells"
-        ],
-        "InternalName": "OkuLalafell",
-        "AssemblyVersion": "2.13.2.9",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1758038916"
-    },
-    {
         "Author": "Oku Katsu",
         "Name": "Slice Is Right",
         "Punchline": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
@@ -25,13 +8,13 @@
             "plugin"
         ],
         "InternalName": "SliceIsRight",
-        "AssemblyVersion": "1.13.0.2",
+        "AssemblyVersion": "1.14.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
         "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/SliceIsRight/latest.zip",
         "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/SliceIsRight/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1758038916"
+        "LastUpdate": "1765984760"
     },
     {
         "Author": "Oku Katsu",
@@ -42,12 +25,29 @@
             "plugin"
         ],
         "InternalName": "LalaName",
-        "AssemblyVersion": "1.13.0.1",
+        "AssemblyVersion": "1.14.0.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
         "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/LalaName/latest.zip",
         "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/LalaName/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1758038916"
+        "LastUpdate": "1765984760"
+    },
+    {
+        "Author": "Avaflow, Ars Magna, Kelvin, Oku Katsu",
+        "Name": "Oku Lalafell",
+        "Punchline": "Turn everyone around you into Lalafells (or other races!)",
+        "Description": "Turn everyone around you into Lalafells (or other races!)\n/polala on = enable plugin.\n/polala off = disable plugin.",
+        "Tags": [
+            "lalafells"
+        ],
+        "InternalName": "OkuLalafell",
+        "AssemblyVersion": "2.14.2.9",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1765984760"
     }
 ]
