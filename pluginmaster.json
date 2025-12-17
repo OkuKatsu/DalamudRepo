@@ -3,18 +3,18 @@
         "Author": "Oku Katsu",
         "Name": "Slice Is Right",
         "Punchline": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
-        "Description": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
+        "Description": "Darw danger Zone on Gold Saucer Slice Is Right Game",
         "Tags": [
             "plugin"
         ],
         "InternalName": "SliceIsRight",
         "AssemblyVersion": "1.14.0.2",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/SliceIsRight/latest.zip",
         "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/SliceIsRight/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765984760"
+        "LastUpdate": "1765985687"
     },
     {
         "Author": "Oku Katsu",
@@ -27,11 +27,11 @@
         "InternalName": "LalaName",
         "AssemblyVersion": "1.14.0.1",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/LalaName/latest.zip",
         "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/LalaName/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765984760"
+        "LastUpdate": "1765985687"
     },
     {
         "Author": "Avaflow, Ars Magna, Kelvin, Oku Katsu",
@@ -48,6 +48,6 @@
         "DownloadLinkInstall": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
         "DownloadLinkUpdate": "https://github.com/OkuKatsu/DalamudRepo/raw/master/Plugins/OkuLalafell/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1765984760"
+        "LastUpdate": "1765985687"
     }
 ]
