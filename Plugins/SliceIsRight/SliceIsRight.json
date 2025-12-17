@@ -3,12 +3,12 @@
   "Name": "Slice Is Right",
   "InternalName": "SliceIsRight",
   "AssemblyVersion": "1.14.0.2",
-  "Description": "Darw danger Zone on Gold Saucer Slice Is Right Game.",
+  "Description": "Darw danger Zone on Gold Saucer Slice Is Right Game",
   "ApplicableVersion": "any",
   "Tags": [
     "plugin"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
